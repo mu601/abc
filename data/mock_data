@@ -1,0 +1,87 @@
+{
+  "orders": [
+    {
+      "Name": "John Smith",
+      "Address": "23 Brick Lane E2 3FW",
+      "Phone": "07543242342",
+      "Courier": 1,
+      "Status": "preparing",
+      "Items": "1,2"
+    },
+    {
+      "Name": "Steven Bob",
+      "Address": "2 Whiteple House E4 4FD",
+      "Phone": "04543247986",
+      "Courier": 2,
+      "Status": "preparing",
+      "Items": "1"
+    },
+    {
+      "Name": "Davis Owen",
+      "Address": "3 Limehouse E1 3TT",
+      "Phone": "055445434986",
+      "Courier": 3,
+      "Status": "preparing",
+      "Items": "2"
+    },
+    {
+      "Name": "Bruce Ben",
+      "Address": "34 Benson House E2 3RR",
+      "Phone": "09543233644",
+      "Courier": 1,
+      "Status": "preparing",
+      "Items": "1,2,3"
+    }
+  ]
+}
+
+
+
+{
+  "products": [
+    {
+      "name": "Coke Zero",
+      "price": 0.8
+    },
+    {
+      "name": "Coke",
+      "price": 0.9
+    },
+    {
+      "name": "Pepsi",
+      "price": 0.6
+    },
+    {
+      "name": "water",
+      "price": 0.5
+    },
+    {
+      "name": "coffee",
+      "price": 1.0
+    }
+    ,
+    {
+      "name": "tea",
+      "price": 1.0
+    }
+  ]
+}
+
+
+{
+  "couriers": [
+    {
+      "name": "Bob",
+      "phone": "0789887889"
+    },
+    {
+      "name": "Andrew",
+      "phone": "0789845639"
+    },
+    {
+      "name": "James",
+      "phone": "0789877752"
+    }
+  ]
+}
+

@@ -1,0 +1,10 @@
+{
+  "products": [
+    { "name": "Coke Zero", "price": 0.8 },
+    { "name": "Coke", "price": 0.9 },
+    { "name": "Pepsi", "price": 0.6 },
+    { "name": "water", "price": 0.5 },
+    { "name": "coffee", "price": 1.0 },
+    { "name": "tea", "price": 1.0 }
+  ]
+}
